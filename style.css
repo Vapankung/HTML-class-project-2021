@@ -1,0 +1,35 @@
+body {
+    background-color: #c2b4c2;
+}
+
+.texts {
+    color: white;
+    text-shadow: white 0px 0px 3px;
+    font-family: 'Sriracha', cursive;
+}
+
+.pricetexts {
+    color: #17372a;
+    text-shadow: #17372a 0px 0px 3px;
+    font-family: 'Sriracha', cursive;
+}
+
+.header-texts {
+    color: black;
+    text-shadow: black 0px 0px 3px;
+    font-family: 'Sriracha', cursive;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rainbow{
+    font-family: 'Sriracha', cursive;
+            background-image: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet, indigo, blue, green, yellow, orange, red);
+            text-shadow: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet)0px 0px 5px;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: move 20s linear infinite;
+}
